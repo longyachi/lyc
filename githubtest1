@@ -1,1 +1,20 @@
 github test
+龙雅驰@DESKTOP-TC03SDL MINGW64 /e/Github/lyc (master)
+$ git add .
+
+龙雅驰@DESKTOP-TC03SDL MINGW64 /e/Github/lyc (master)
+$ git commit -m "test1"
+[master (root-commit) 6ebf620] test1
+ 1 file changed, 1 insertion(+)
+ create mode 100644 githubtest1
+
+龙雅驰@DESKTOP-TC03SDL MINGW64 /e/Github/lyc (master)
+$ git push -u origin master
+Enumerating objects: 3, done.
+Counting objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 218 bytes | 109.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0)
+To https://github.com/longyachi/lyc.git
+ * [new branch]      master -> master
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+
